@@ -1,10 +1,10 @@
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4500&pause=1500&color=00C2FF&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Harshvardhan+Gaggar!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=4800&pause=1800&color=00C2FF&center=true&vCenter=true&width=850&height=80&lines=Hi+I'm+Harshvardhan+Gaggar!" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1200&color=7DF9FF&center=true&vCenter=true&width=800&height=40&lines=Builder+%7C+Problem+Solver+%7C+Tech+Enthusiast;Competitive+Programmer+%7C+AI%2FML+%7C+Cybersecurity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2800&pause=1500&deleteSpeed=40&color=7DF9FF&center=true&vCenter=true&width=850&height=45&lines=Competitive+Programmer;AI%2FML+Engineer;Cybersecurity+%7C+CTF+Player" />
 
 </h1>
 
