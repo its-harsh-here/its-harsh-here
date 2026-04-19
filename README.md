@@ -101,12 +101,3 @@ Competitive Programmer • AI/ML & Cybersecurity Enthusiast
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/its-harsh-here/">
-<img height="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-</a>
-</p>
-
----
