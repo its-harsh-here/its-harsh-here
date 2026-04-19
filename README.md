@@ -1,10 +1,12 @@
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=4800&pause=1800&color=00C2FF&center=true&vCenter=true&width=850&height=80&lines=Hi+I'm+Harshvardhan+Gaggar!" />
+<!-- TOP: Name (slow + long pause so it stays visible) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=4500&pause=9000&color=00C2FF&center=true&vCenter=true&width=850&height=80&lines=Hi+I'm+Harshvardhan+Gaggar!" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2800&pause=1500&deleteSpeed=40&color=7DF9FF&center=true&vCenter=true&width=850&height=45&lines=Competitive+Programmer;AI%2FML+Engineer;Cybersecurity+%7C+CTF+Player" />
+<!-- BOTTOM: Roles cycle -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2500&pause=1200&deleteSpeed=40&color=7DF9FF&center=true&vCenter=true&width=850&height=45&lines=Competitive+Programmer;AI%2FML+%7C+Cybersecurity;CTF+Player;Hackathon+Builder" />
 
 </h1>
 
