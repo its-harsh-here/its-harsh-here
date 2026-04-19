@@ -2,7 +2,6 @@
 
 <!-- TOP: Name (slow + long pause so it stays visible) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=4500&pause=9000&color=00C2FF&center=true&vCenter=true&width=850&height=80&lines=Hi+I'm+Harshvardhan+Gaggar!" />
-
 <h3 align="center">
 Competitive Programmer • AI/ML & Cybersecurity Enthusiast 
 </h3>
