@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Competitive Programmer • AI/ML & Cybersecurity Enthusiast • Open Source Contributor
+Competitive Programmer • AI/ML & Cybersecurity Enthusiast 
 </h3>
 
 ---
