@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=00C2FF&cursorColor=00C2FF&lines=Hi+I'm+Harshvardhan+Gaggar!;Competitive+Programmer+%7C+AI+%7C+Cybersecurity;Builder+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=00C2FF&cursorColor=00C2FF&lines=Hi+I'm+Harshvardhan+Gaggar!;Builder+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
 </h1>
 
 <h3 align="center">
-B.Tech CSE @ MIT Bengaluru • Competitive Programmer • AI/ML & Cybersecurity Enthusiast • Open Source Contributor
+Competitive Programmer • AI/ML & Cybersecurity Enthusiast • Open Source Contributor
 </h3>
 
 ---
