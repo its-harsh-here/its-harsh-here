@@ -5,12 +5,6 @@
 
 <br>
 
-<!-- BOTTOM: Roles cycle -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2500&pause=1200&deleteSpeed=40&color=7DF9FF&center=true&vCenter=true&width=850&height=45&lines=Competitive+Programmer;Researcher;AI%2FML;Cybersecurity" />
-
-</h1>
-
-
 <h3 align="center">
 Competitive Programmer • AI/ML & Cybersecurity Enthusiast 
 </h3>
