@@ -1,6 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=00C2FF&cursorColor=00C2FF&lines=Hi+I'm+Harshvardhan+Gaggar!;Builder+%7C+Problem+Solver+%7C+Tech+Enthusiast" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4500&pause=1500&color=00C2FF&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Harshvardhan+Gaggar!" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1200&color=7DF9FF&center=true&vCenter=true&width=800&height=40&lines=Builder+%7C+Problem+Solver+%7C+Tech+Enthusiast;Competitive+Programmer+%7C+AI%2FML+%7C+Cybersecurity" />
+
 </h1>
+
 
 <h3 align="center">
 Competitive Programmer • AI/ML & Cybersecurity Enthusiast 
