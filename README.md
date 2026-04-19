@@ -76,33 +76,6 @@ Competitive Programmer • AI/ML & Cybersecurity Enthusiast
 
 ---
 
-## 💼 Projects
-
-### 🏆 Competitive Programming Tracker
-
-* Built a **leaderboard-based CP platform**
-* Integrates **Codeforces & CodeChef APIs**
-* Implements **custom Elo-like rating system**
-* Tracks contest performance & progress
-
----
-
-### 🤖 AI Budget Assistant
-
-* AI-powered personal finance chatbot
-* Uses **LLMs + RAG architecture**
-* Tracks expenses and predicts spending
-* Web + Telegram integration
-
----
-
-### 🛡 AI vs AI — Deepfake Detection
-
-* Detects misinformation & deepfakes
-* Uses **ML-based classification models**
-* Designed for cybersecurity awareness
-
----
 
 ## 🏆 Achievements
 
