@@ -83,21 +83,3 @@ Competitive Programmer • AI/ML & Cybersecurity Enthusiast
 * 🎯 National Level CTF winner
   
 ---
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-harsh-here&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-harsh-here&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-harsh-here&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-harsh-here&theme=react" />
-</p>
-
----
-
