@@ -10,8 +10,8 @@ Competitive Programmer • AI/ML & Cybersecurity Enthusiast
 
 ## 🚀 About Me
 
-* 🎓 **B.Tech Computer Science @ Manipal Institute of Technology, Bengaluru**
-* 🤖 Interested in **Competitive Programming, CTF, Hackathons**
+* 🎓 **B.Tech Computer Science @ Manipal Institute of Technology**
+* 🤖 Interested in **Research, Competitive Programming, CTF as well as Hackathons**
 * 🎯 Goal: Build impactful systems and pursue advanced research in **AI & Cybersecurity**
 
 ---
