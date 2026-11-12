@@ -18,16 +18,6 @@
 
 <br/>
 
-<!-- =========================================================================================
-     3. LIVE STATUS & TELEMETRY BADGES
-     ========================================================================================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-harsh-here&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/its-harsh-here?label=FOLLOWERS&color=7928CA&style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/its-harsh-here?affiliations=OWNER&label=TOTAL+STARS&color=FF007A&style=for-the-badge&logo=starship" alt="Stars" />
-  <img src="https://img.shields.io/badge/MIT_MANIPAL-B.TECH_CSE-00FF9D?style=for-the-badge&logo=googlescholar&logoColor=black" alt="MIT Manipal" />
-  <img src="https://img.shields.io/badge/CTF_STATUS-NATIONAL_WINNER-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" alt="CTF Winner" />
-</p>
 
 <!-- ANIMATED GRADIENT BAR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,50:7928CA,100:FF007A&height=4" width="100%" />
@@ -37,7 +27,7 @@
 <br/>
 
 <!-- =========================================================================================
-     4. ANIMATED TERMINAL BOOT SEQUENCE + ABOUT ME
+     3. ANIMATED TERMINAL BOOT SEQUENCE + ABOUT ME
      ========================================================================================= -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=FF007A&center=true&vCenter=true&width=600&height=45&lines=01.+%2F%2F+SYSTEM.INIT(%22ABOUT_ME%22);01.+%2F%2F+WHOAMI+%26+BIO_TELEMETRY" alt="Section 1" />
