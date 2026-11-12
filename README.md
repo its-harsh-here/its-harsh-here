@@ -1,85 +1,39 @@
-<h1 align="center">
+<!-- ==========================================
+     HEADER: ANIMATED WAVE BANNER & TYPING SVG
+     ========================================== -->
+<div align="center">
 
-<!-- TOP: Name (slow + long pause so it stays visible) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=4500&pause=9000&color=00C2FF&center=true&vCenter=true&width=850&height=80&lines=Hi+I'm+Harshvardhan+Gaggar!" />
-<h3 align="center">
-Competitive Programmer • AI/ML & Cybersecurity Enthusiast 
-</h3>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0a192f,100:00C2FF&height=220&section=header&text=Harshvardhan%20Gaggar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Competitive%20Programmer%20%E2%80%A2%20AI%2FML%20%26%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" alt="Header Banner" />
 
----
+  <!-- Slow + long pause typing SVG for name & rotating roles -->
+  <a href="https://github.com/its-harsh-here">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=4500&pause=9000&color=00C2FF&center=true&vCenter=true&width=850&height=70&lines=Hi+I'm+Harshvardhan+Gaggar!;Competitive+Programmer+%E2%80%A2+AI%2FML+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  </a>
 
-## 🚀 About Me
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=its-harsh-here&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/its-harsh-here?label=FOLLOWERS&color=7928CA&style=for-the-badge&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/badge/B.Tech_CSE-MIT_Manipal-FF007A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="MIT Manipal" />
+  </p>
 
-* 🎓 **B.Tech Computer Science @ Manipal Institute of Technology**
-* 🤖 Interested in **Research, Competitive Programming, CTF as well as Hackathons**
-* 🎯 Goal: Build impactful systems and pursue advanced research in **AI & Cybersecurity**
+</div>
 
----
+<!-- Animated Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 Current Focus
+<!-- ==========================================
+     ABOUT ME & CURRENT FOCUS (TERMINAL + UI)
+     ========================================== -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **System.init("Harshvardhan")**
 
-* Developing a **Competitive Programming Tracker Website**
-* Working on **Deepfake & Misinformation Detection (AI vs AI Project)**
-* Strengthening **DSA & System Design**
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
----
-
-## 🛠 Tech Stack
-
-### **Languages**
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
-`C++` · `C` · `Java` · `Python` · `SQL`
-
----
-
-### **AI / ML / Data Science**
-
-<p>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
-</p>
-
-`PyTorch` · `TensorFlow` · `OpenCV` · `Hugging Face`  
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
-
----
-
-### **Cybersecurity**
-
-`Network Security` · `Threat Analysis` · `Digital Forensics`  
-`Linux` · `Packet Analysis` · `Binary Exploitation`  
-`Vulnerability Assessment`
-
----
-
-### **Web & Development**
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-</p>
-
-`Git` · `GitHub` · `JavaScript` · `Node.js`  
-`HTML` · `CSS` · `API Integration`
-
----
-
-
-## 🏆 Achievements
-
-* 💻 Active Competitive Programmer
-* 🎯 National Level CTF winner
-  
----
+```yaml
+name: Harshvardhan Gaggar
+education: "🎓 B.Tech Computer Science @ Manipal Institute of Technology"
+interests:
+  - "🤖 Research"
+  - "⚡ Competitive Programming"
+  - "🚩 Capture The Flag (CTF)"
+  - "🏆 Hackathons"
+mission: "🎯 Build impactful systems & pursue advanced research in AI & Cybersecurity"
